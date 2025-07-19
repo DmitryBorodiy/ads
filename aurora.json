@@ -1,0 +1,82 @@
+[
+    {
+        "color": "default",
+        "beginTime": "18/7/2025",
+        "endTime": "28/7/2025",
+        "logo": "https://store-images.s-microsoft.com/image/apps.5363.13852355733826247.f6f5fe34-ef78-40b0-8ade-586abfee21d8.bfbd65ca-af21-4418-94cb-fe9e80907282?h=170",
+        "hero": "https://store-images.s-microsoft.com/image/apps.51697.13852355733826247.f6f5fe34-ef78-40b0-8ade-586abfee21d8.91e93b90-2f41-431e-b40f-4dafdedf1f63?h=500",
+        "resources": [
+            {
+                "type": "microsoft_store_app",
+                "uriLink": "ms-windows-store://pdp/?productid=9MW29R6QCR68"
+            },
+            {
+                "type": "microsoft_store_web",
+                "uriLink": "https://apps.microsoft.com/detail/9MW29R6QCR68"
+            }
+        ],
+        "strings": [
+            {
+                "lang": "en-US",
+                "type": 0,
+                "value": "The Widgets app"
+            },
+            {
+              "lang": "en-US",
+              "type": 1,
+              "value": "Prove your Windows desktop with incredible interactive widgets."
+            },
+            {
+              "lang": "es-ES",
+              "type": 1,
+              "value": "Mejora tu escritorio de Windows con increíbles widgets interactivos."
+            },
+            {
+              "lang": "de-DE",
+              "type": 1,
+              "value": "Werten Sie Ihren Windows-Desktop mit beeindruckenden interaktiven Widgets auf."
+            },
+            {
+              "lang": "fr-FR",
+              "type": 1,
+              "value": "Améliorez votre bureau Windows avec des widgets interactifs incroyables."
+            },
+            {
+              "lang": "ru-RU",
+              "type": 1,
+              "value": "Прокачайте рабочий стол Windows с невероятными интерактивными виджетами."
+            },
+            {
+              "lang": "uk-UA",
+              "type": 1,
+              "value": "Прокачай свій робочий стіл неймовірними інтерактивними віджетами."
+            },
+            {
+              "lang": "zh-CN",
+              "type": 1,
+              "value": "通过令人惊叹的交互式小部件提升你的 Windows 桌面体验。"
+            },
+            {
+              "lang": "ja-JP",
+              "type": 1,
+              "value": "驚くほどインタラクティブなウィジェットで Windows デスクトップを強化しましょう。"
+            },
+            {
+              "lang": "pt-BR",
+              "type": 1,
+              "value": "Melhore sua área de trabalho do Windows com widgets interativos incríveis."
+            },
+            {
+              "lang": "it-IT",
+              "type": 1,
+              "value": "Migliora il tuo desktop Windows con incredibili widget interattivi."
+            }
+        ],
+        "promo": [
+          {
+            "code": "G94QX-KJJYT-32J77-9VHK2-K97XZ",
+            "expiresIn": "8/16/2025 12:00:00 AM"
+          }
+        ]
+    }
+]
