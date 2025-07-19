@@ -1,8 +1,8 @@
 [
     {
         "color": "default",
-        "beginTime": "18/7/2025",
-        "endTime": "28/7/2025",
+        "beginTimeUtc": "2025-07-17T21:00:00Z",
+        "endTimeUtc": "2025-07-27T21:00:00Z",
         "logo": "https://store-images.s-microsoft.com/image/apps.5363.13852355733826247.f6f5fe34-ef78-40b0-8ade-586abfee21d8.bfbd65ca-af21-4418-94cb-fe9e80907282?h=170",
         "hero": "https://store-images.s-microsoft.com/image/apps.51697.13852355733826247.f6f5fe34-ef78-40b0-8ade-586abfee21d8.91e93b90-2f41-431e-b40f-4dafdedf1f63?h=500",
         "resources": [
@@ -75,7 +75,7 @@
         "promo": [
           {
             "code": "G94QX-KJJYT-32J77-9VHK2-K97XZ",
-            "expiresIn": "8/16/2025 12:00:00 AM"
+            "expiresIn": "2025-08-15 21:00:00Z"
           }
         ]
     }
