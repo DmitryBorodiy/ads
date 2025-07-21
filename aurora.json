@@ -180,8 +180,8 @@
     },
     {
         "id": "3e73d852-f4db-4556-b6d4-d65856981ea6",
-        "color": "#0067c0",
-        "theme": "Light",
+        "color": "#000000",
+        "theme": "Dark",
         "beginTimeUtc": "2025-07-17T21:00:00Z",
         "endTimeUtc": "2025-10-27T21:00:00Z",
         "rating": "5",
