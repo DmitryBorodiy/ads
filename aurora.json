@@ -2,7 +2,7 @@
     {
         "id": "b4f93716-488a-43d6-b492-27c6319c7924",
         "color": "#0067c0",
-        "theme": "Light",
+        "theme": "Dark",
         "beginTimeUtc": "2025-07-17T21:00:00Z",
         "endTimeUtc": "2025-10-27T21:00:00Z",
         "rating": "4.8",
@@ -85,7 +85,7 @@
     {
         "id": "46490a64-0723-42c7-aa22-cde093238c36",
         "color": "#0067c0",
-        "theme": "Light",
+        "theme": "Dark",
         "beginTimeUtc": "2025-07-17T21:00:00Z",
         "endTimeUtc": "2025-10-27T21:00:00Z",
         "rating": "5",
