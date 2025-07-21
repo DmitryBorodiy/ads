@@ -145,5 +145,37 @@
               "value": "Safebox is your ultimate solution for safeguarding files, passwords, and sensitive information with ease and confidence."
             }
         ]
+    },
+    {
+        "id": "a6dfc58d-348a-4fa9-b5b4-3f12763e7993",
+        "color": "#0067c0",
+        "theme": "Dark",
+        "beginTimeUtc": "2025-07-17T21:00:00Z",
+        "endTimeUtc": "2025-10-27T21:00:00Z",
+        "rating": "5",
+        "logo": "https://store-images.s-microsoft.com/image/apps.16776.14152850406496980.330477cf-1b71-49c8-8280-b971f0ed0d1d.77f6a55c-01dd-46eb-8b51-a32f8607dbb1?h=115",
+        "hero": "https://store-images.s-microsoft.com/image/apps.22119.14152850406496980.330477cf-1b71-49c8-8280-b971f0ed0d1d.52ee41c4-f94d-4eba-92f2-259973bdc7ce?h=720",
+        "resources": [
+            {
+                "type": "microsoft_store_app",
+                "uriLink": "ms-windows-store://pdp/?productid=9PDKK5HL79RP"
+            },
+            {
+                "type": "microsoft_store_web",
+                "uriLink": "https://apps.microsoft.com/detail/9PDKK5HL79RP"
+            }
+        ],
+        "strings": [
+            {
+                "lang": "en-US",
+                "type": 0,
+                "value": "Ukraine Raid Alerts Map"
+            },
+            {
+              "lang": "en-US",
+              "type": 1,
+              "value": "Alarms Map is an application that allows you to track air raid alarms on the map of Ukraine in real time."
+            }
+        ]
     }
 ]
