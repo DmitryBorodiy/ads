@@ -177,5 +177,37 @@
               "value": "Alarms Map is an application that allows you to track air raid alarms on the map of Ukraine in real time."
             }
         ]
+    },
+    {
+        "id": "3e73d852-f4db-4556-b6d4-d65856981ea6",
+        "color": "#0067c0",
+        "theme": "Light",
+        "beginTimeUtc": "2025-07-17T21:00:00Z",
+        "endTimeUtc": "2025-10-27T21:00:00Z",
+        "rating": "5",
+        "logo": "https://store-images.s-microsoft.com/image/apps.18823.13554899331576168.f7d410c8-4c83-43e5-8a8c-3416f5b257b6.809da85a-7c99-408b-a51a-b10d5d9bf0c1?h=115",
+        "hero": "https://store-images.s-microsoft.com/image/apps.64514.13554899331576168.f7d410c8-4c83-43e5-8a8c-3416f5b257b6.43c65887-5ebc-42a6-bd89-60424fde99df?h=720",
+        "resources": [
+            {
+                "type": "microsoft_store_app",
+                "uriLink": "ms-windows-store://pdp/?productid=9NCXLRSKPL9K"
+            },
+            {
+                "type": "microsoft_store_web",
+                "uriLink": "https://apps.microsoft.com/detail/9NCXLRSKPL9K"
+            }
+        ],
+        "strings": [
+            {
+                "lang": "en-US",
+                "type": 0,
+                "value": "Power Editor - powerful text & code editor"
+            },
+            {
+              "lang": "en-US",
+              "type": 1,
+              "value": "Introducing modern and powerful text editor for you! Edit your code and text files with powerful tools. "
+            }
+        ]
     }
 ]
