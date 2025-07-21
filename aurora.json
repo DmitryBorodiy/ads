@@ -4,7 +4,7 @@
         "color": "#0067c0",
         "theme": "Light",
         "beginTimeUtc": "2025-07-17T21:00:00Z",
-        "endTimeUtc": "2025-07-27T21:00:00Z",
+        "endTimeUtc": "2025-10-27T21:00:00Z",
         "rating": "4.8",
         "logo": "https://store-images.s-microsoft.com/image/apps.5363.13852355733826247.f6f5fe34-ef78-40b0-8ade-586abfee21d8.bfbd65ca-af21-4418-94cb-fe9e80907282?h=170",
         "hero": "https://store-images.s-microsoft.com/image/apps.51697.13852355733826247.f6f5fe34-ef78-40b0-8ade-586abfee21d8.91e93b90-2f41-431e-b40f-4dafdedf1f63?h=500",
@@ -87,7 +87,7 @@
         "color": "#0067c0",
         "theme": "Light",
         "beginTimeUtc": "2025-07-17T21:00:00Z",
-        "endTimeUtc": "2025-07-27T21:00:00Z",
+        "endTimeUtc": "2025-10-27T21:00:00Z",
         "rating": "5",
         "logo": "https://store-images.s-microsoft.com/image/apps.11972.14431913386872352.cb790d6d-e207-4827-94d1-7b049e814a5a.d6adfe63-d12b-475f-9a71-3bd99e67a3ec?h=115",
         "hero": "https://store-images.s-microsoft.com/image/apps.31776.14431913386872352.14f5bf3f-d379-4786-a8d4-2b4cbd328502.e5f4140d-a529-4067-a364-9b26e663124f?h=500",
@@ -111,6 +111,38 @@
               "lang": "en-US",
               "type": 1,
               "value": "QuickFind is a one-stop solution for instantly finding everything you need."
+            }
+        ]
+    },
+    {
+        "id": "11d56b4d-a113-43e0-a482-8450f6d1ceb4",
+        "color": "#808991",
+        "theme": "Light",
+        "beginTimeUtc": "2025-07-17T21:00:00Z",
+        "endTimeUtc": "2025-10-27T21:00:00Z",
+        "rating": "5",
+        "logo": "https://store-images.s-microsoft.com/image/apps.30887.13749227224226748.e0c43cf5-adc5-47fb-88a2-1839066e3853.0831c1b8-7c3e-41e4-97a2-e0acc9019f67?h=115",
+        "hero": "https://store-images.s-microsoft.com/image/apps.37152.13749227224226748.6c7eafc0-8d99-4d09-bd78-028ea38da93a.f9286a10-9cb3-4855-8acb-bd840c648bd4?h=720",
+        "resources": [
+            {
+                "type": "microsoft_store_app",
+                "uriLink": "ms-windows-store://pdp/?productid=9NMXP4V68Q15"
+            },
+            {
+                "type": "microsoft_store_web",
+                "uriLink": "https://apps.microsoft.com/detail/9NMXP4V68Q15"
+            }
+        ],
+        "strings": [
+            {
+                "lang": "en-US",
+                "type": 0,
+                "value": "Safebox - secure vault app"
+            },
+            {
+              "lang": "en-US",
+              "type": 1,
+              "value": "Safebox is your ultimate solution for safeguarding files, passwords, and sensitive information with ease and confidence."
             }
         ]
     }
