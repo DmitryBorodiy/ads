@@ -73,6 +73,36 @@
               "lang": "it-IT",
               "type": 1,
               "value": "Migliora il tuo desktop Windows con incredibili widget interattivi."
+            },
+            {
+              "lang": "ko-KR",
+              "type": 1,
+              "value": "놀라운 인터랙티브 위젯으로 Windows 데스크톱을 향상시키세요."
+            },
+            {
+              "lang": "tr-TR",
+              "type": 1,
+              "value": "Etkileyici etkileşimli widget'larla Windows masaüstünüzü geliştirin."
+            },
+            {
+              "lang": "hi-IN",
+              "type": 1,
+              "value": "शानदार इंटरएक्टिव विजेट्स के साथ अपने Windows डेस्कटॉप को बेहतर बनाएं।"
+            },
+            {
+              "lang": "ar-SA",
+              "type": 1,
+              "value": "قم بتحسين سطح مكتب Windows الخاص بك باستخدام أدوات تفاعلية مذهلة."
+            },
+            {
+              "lang": "id-ID",
+              "type": 1,
+              "value": "Tingkatkan desktop Windows Anda dengan widget interaktif yang luar biasa."
+            },
+            {
+              "lang": "vi-VN",
+              "type": 1,
+              "value": "Nâng cấp màn hình Windows của bạn với các tiện ích tương tác tuyệt vời."
             }
         ],
         "promo": [
@@ -111,6 +141,56 @@
               "lang": "en-US",
               "type": 1,
               "value": "QuickFind is a one-stop solution for instantly finding everything you need."
+            },
+            {
+              "lang": "ru-RU",
+              "type": 1,
+              "value": "QuickFind — универсальное решение для мгновенного поиска всего, что вам нужно."
+            },
+            {
+              "lang": "uk-UA",
+              "type": 1,
+              "value": "QuickFind — це універсальне рішення для миттєвого пошуку всього, що вам потрібно."
+            },
+            {
+              "lang": "es-ES",
+              "type": 1,
+              "value": "QuickFind es una solución integral para encontrar al instante todo lo que necesitas."
+            },
+            {
+              "lang": "de-DE",
+              "type": 1,
+              "value": "QuickFind ist die Komplettlösung, um alles, was Sie brauchen, sofort zu finden."
+            },
+            {
+              "lang": "fr-FR",
+              "type": 1,
+              "value": "QuickFind est une solution tout-en-un pour trouver instantanément tout ce dont vous avez besoin."
+            },
+            {
+              "lang": "it-IT",
+              "type": 1,
+              "value": "QuickFind è la soluzione completa per trovare all'istante tutto ciò di cui hai bisogno."
+            },
+            {
+              "lang": "pt-BR",
+              "type": 1,
+              "value": "QuickFind é uma solução completa para encontrar instantaneamente tudo o que você precisa."
+            },
+            {
+              "lang": "pl-PL",
+              "type": 1,
+              "value": "QuickFind to kompleksowe rozwiązanie do błyskawicznego znajdowania wszystkiego, czego potrzebujesz."
+            },
+            {
+              "lang": "nl-NL",
+              "type": 1,
+              "value": "QuickFind is een alles-in-één oplossing om direct te vinden wat je nodig hebt."
+            },
+            {
+              "lang": "tr-TR",
+              "type": 1,
+              "value": "QuickFind, ihtiyaç duyduğunuz her şeyi anında bulmak için hepsi bir arada bir çözümdür."
             }
         ]
     },
@@ -143,6 +223,56 @@
               "lang": "en-US",
               "type": 1,
               "value": "Safebox is your ultimate solution for safeguarding files, passwords, and sensitive information with ease and confidence."
+            },
+            {
+              "lang": "ru-RU",
+              "type": 1,
+              "value": "Safebox — идеальное решение для безопасного хранения файлов, паролей и конфиденциальной информации."
+            },
+            {
+              "lang": "uk-UA",
+              "type": 1,
+              "value": "Safebox — це найкраще рішення для захисту файлів, паролів та конфіденційної інформації."
+            },
+            {
+              "lang": "es-ES",
+              "type": 1,
+              "value": "Safebox es la solución definitiva para proteger archivos, contraseñas e información sensible con facilidad y seguridad."
+            },
+            {
+              "lang": "de-DE",
+              "type": 1,
+              "value": "Safebox ist Ihre ultimative Lösung zum sicheren Schutz von Dateien, Passwörtern und sensiblen Informationen."
+            },
+            {
+              "lang": "fr-FR",
+              "type": 1,
+              "value": "Safebox est votre solution ultime pour sécuriser vos fichiers, mots de passe et informations sensibles."
+            },
+            {
+              "lang": "it-IT",
+              "type": 1,
+              "value": "Safebox è la soluzione definitiva per proteggere file, password e informazioni sensibili in modo semplice e sicuro."
+            },
+            {
+              "lang": "pt-BR",
+              "type": 1,
+              "value": "Safebox é a solução ideal para proteger arquivos, senhas e informações confidenciais com facilidade e segurança."
+            },
+            {
+              "lang": "pl-PL",
+              "type": 1,
+              "value": "Safebox to idealne rozwiązanie do bezpiecznego przechowywania plików, haseł i poufnych informacji."
+            },
+            {
+              "lang": "nl-NL",
+              "type": 1,
+              "value": "Safebox is dé oplossing voor het veilig bewaren van bestanden, wachtwoorden en gevoelige informatie."
+            },
+            {
+              "lang": "tr-TR",
+              "type": 1,
+              "value": "Safebox, dosyalarınızı, şifrelerinizi ve hassas bilgilerinizi kolay ve güvenli bir şekilde korumanın en iyi yoludur."
             }
         ]
     },
@@ -175,6 +305,56 @@
               "lang": "en-US",
               "type": 1,
               "value": "Alarms Map is an application that allows you to track air raid alarms on the map of Ukraine in real time."
+            },
+            {
+              "lang": "ru-RU",
+              "type": 1,
+              "value": "Приложение позволяет отслеживать воздушные тревоги на карте Украины в режиме реального времени."
+            },
+            {
+              "lang": "uk-UA",
+              "type": 1,
+              "value": "Додаток дозволяє відстежувати повітряні тривоги на мапі України в реальному часі."
+            },
+            {
+              "lang": "es-ES",
+              "type": 1,
+              "value": "Esta aplicación permite seguir las alertas aéreas en el mapa de Ucrania en tiempo real."
+            },
+            {
+              "lang": "de-DE",
+              "type": 1,
+              "value": "Die App ermöglicht das Verfolgen von Luftalarmmeldungen auf der Karte der Ukraine in Echtzeit."
+            },
+            {
+              "lang": "fr-FR",
+              "type": 1,
+              "value": "Cette application permet de suivre les alertes de raids aériens sur la carte de l’Ukraine en temps réel."
+            },
+            {
+              "lang": "it-IT",
+              "type": 1,
+              "value": "L'app consente di monitorare in tempo reale gli allarmi aerei sulla mappa dell'Ucraina."
+            },
+            {
+              "lang": "pt-BR",
+              "type": 1,
+              "value": "O aplicativo permite acompanhar alertas de ataque aéreo no mapa da Ucrânia em tempo real."
+            },
+            {
+              "lang": "pl-PL",
+              "type": 1,
+              "value": "Aplikacja umożliwia śledzenie alarmów lotniczych na mapie Ukrainy w czasie rzeczywistym."
+            },
+            {
+              "lang": "nl-NL",
+              "type": 1,
+              "value": "Met deze app volg je realtime luchtalarmen op de kaart van Oekraïne."
+            },
+            {
+              "lang": "tr-TR",
+              "type": 1,
+              "value": "Uygulama, Ukrayna haritasında hava saldırısı uyarılarını gerçek zamanlı olarak takip etmenizi sağlar."
             }
         ]
     },
@@ -207,6 +387,56 @@
               "lang": "en-US",
               "type": 1,
               "value": "Introducing modern and powerful text editor for you! Edit your code and text files with powerful tools. "
+            },
+            {
+              "lang": "ru-RU",
+              "type": 1,
+              "value": "Современный и мощный редактор для текста и кода. Работайте эффективно!"
+            },
+            {
+              "lang": "uk-UA",
+              "type": 1,
+              "value": "Сучасний та потужний редактор для тексту й коду. Працюйте зручно!"
+            },
+            {
+              "lang": "es-ES",
+              "type": 1,
+              "value": "Un editor moderno y potente para texto y código. ¡Trabaja con eficacia!"
+            },
+            {
+              "lang": "de-DE",
+              "type": 1,
+              "value": "Ein moderner und leistungsstarker Editor für Text und Code. Arbeiten Sie effizient!"
+            },
+            {
+              "lang": "fr-FR",
+              "type": 1,
+              "value": "Un éditeur moderne et puissant pour le texte et le code. Travaillez efficacement !"
+            },
+            {
+              "lang": "it-IT",
+              "type": 1,
+              "value": "Un editor moderno e potente per testo e codice. Lavora in modo efficiente!"
+            },
+            {
+              "lang": "pt-BR",
+              "type": 1,
+              "value": "Um editor moderno e poderoso para texto e código. Trabalhe com eficiência!"
+            },
+            {
+              "lang": "pl-PL",
+              "type": 1,
+              "value": "Nowoczesny i potężny edytor do tekstu i kodu. Pracuj efektywnie!"
+            },
+            {
+              "lang": "nl-NL",
+              "type": 1,
+              "value": "Een moderne en krachtige editor voor tekst en code. Werk efficiënt!"
+            },
+            {
+              "lang": "tr-TR",
+              "type": 1,
+              "value": "Metin ve kod düzenlemek için modern ve güçlü bir editör. Verimli çalışın!"
             }
         ]
     }
