@@ -81,5 +81,37 @@
             "expiresIn": "2025-08-15 21:00:00Z"
           }
         ]
+    },
+    {
+        "id": "46490a64-0723-42c7-aa22-cde093238c36",
+        "color": "#0067c0",
+        "theme": "Light",
+        "beginTimeUtc": "2025-07-17T21:00:00Z",
+        "endTimeUtc": "2025-07-27T21:00:00Z",
+        "rating": "5",
+        "logo": "https://store-images.s-microsoft.com/image/apps.11972.14431913386872352.cb790d6d-e207-4827-94d1-7b049e814a5a.d6adfe63-d12b-475f-9a71-3bd99e67a3ec?h=115",
+        "hero": "https://store-images.s-microsoft.com/image/apps.31776.14431913386872352.14f5bf3f-d379-4786-a8d4-2b4cbd328502.e5f4140d-a529-4067-a364-9b26e663124f?h=500",
+        "resources": [
+            {
+                "type": "microsoft_store_app",
+                "uriLink": "ms-windows-store://pdp/?productid=9NX5NQXK0NSR"
+            },
+            {
+                "type": "microsoft_store_web",
+                "uriLink": "https://apps.microsoft.com/detail/9NX5NQXK0NSR"
+            }
+        ],
+        "strings": [
+            {
+                "lang": "en-US",
+                "type": 0,
+                "value": "QuickFind - fast search with AI"
+            },
+            {
+              "lang": "en-US",
+              "type": 1,
+              "value": "QuickFind is a one-stop solution for instantly finding everything you need."
+            }
+        ]
     }
 ]
